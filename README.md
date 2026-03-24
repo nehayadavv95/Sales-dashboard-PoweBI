@@ -10,7 +10,7 @@ This project is a Power BI dashboard that analyzes sales performance.
 - Peak Sales Time: Afternoon
 
  Dashboard Preview
-![Dashboard](sales_dashboard.png)
+![Dashboard](dashboard_powerbi.png)
 
  Files Included
 - sales dashboard.pdf
